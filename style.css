@@ -122,3 +122,10 @@ footer {
     font-size: small;
     padding-top: 10px;
 }
+
+.rodape-ico{
+    display: flex;
+    width: 23px;
+    height: 23px;
+    alignment-items: center;
+}
